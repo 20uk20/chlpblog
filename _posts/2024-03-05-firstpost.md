@@ -13,5 +13,5 @@ author:
 ![Ancient long distance runner](https://upload.wikimedia.org/wikipedia/commons/c/cc/Long_Distance_Runners%2C_Ancient_Greece%2C_Amphora.png)
 
 
-Image by TheNickster, https://www.flickr.com/photos/49503073847@N01/32380227397/
+Banner image by TheNickster, https://www.flickr.com/photos/49503073847@N01/32380227397/
 

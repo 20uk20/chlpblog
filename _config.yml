@@ -101,11 +101,11 @@ navbar:
     url     : /blog/ # url	
   #- title   : Cheatsheets
   #  url     : /cheatsheets
-  #- title   : Extras
-  #  child   :
-  #    - title : Tags
+  - title   : Extras
+    child   :
+      - title : 上班
   #      url   : /tags
-  #    - title : Categories
+      - title : 購物
   #      url   : /categories
   #    - title : Archive
   #      url   : /archive

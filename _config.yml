@@ -123,13 +123,13 @@ navbar:
 #      url  : # child url	
 #Social links to be placed on your site footer
 footer:
-  links:
-    - label : Repo on Github # Label
-      icon  : fab fa-github # Fontawesome 5 icon
-      url   : https://github.com/dieghernan/chulapa-101 # A link or email: https://twitter.com/jack, mail@example.com
-    - label: "RSS"
-      icon: "fa fa-rss"
-      url:  "./atom.xml"
+  #links:
+  #  - label : Repo on Github # Label
+  #    icon  : fab fa-github # Fontawesome 5 icon
+  #    url   : https://github.com/dieghernan/chulapa-101 # A link or email: https://twitter.com/jack, mail@example.com
+  #  - label: "RSS"
+  #    icon: "fa fa-rss"
+  #    url:  "./atom.xml"
   copyright: # default is © <year> <name> 
   
 # C. Theme Settings

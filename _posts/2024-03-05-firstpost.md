@@ -10,4 +10,8 @@ author:
 
 要開始馬拉松式的訓練馬拉松
 
+![Ancient long distance runner](https://upload.wikimedia.org/wikipedia/commons/c/cc/Long_Distance_Runners%2C_Ancient_Greece%2C_Amphora.png)
+
+
 Image by TheNickster, https://www.flickr.com/photos/49503073847@N01/32380227397/
+

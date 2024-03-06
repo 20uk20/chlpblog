@@ -9,3 +9,5 @@ author:
 ---
 
 要開始馬拉松式的訓練馬拉松
+
+Image by TheNickster, https://www.flickr.com/photos/49503073847@N01/32380227397/

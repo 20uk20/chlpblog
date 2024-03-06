@@ -11,7 +11,7 @@ author:
 
 ![Ancient long distance runner](https://upload.wikimedia.org/wikipedia/commons/c/cc/Long_Distance_Runners%2C_Ancient_Greece%2C_Amphora.png)
 
-/assets/audio/jazz.mp3
+../assets/audio/jazz.mp3
 
 Banner image by TheNickster, https://www.flickr.com/photos/49503073847@N01/32380227397/
 

@@ -7,7 +7,7 @@ tags: [馬拉松, 運動]
 author:
   location: "J., Cam.uk"
 ---
-{% include embed-audio.html src="/assets/audio/jazz.mp3" %}
+
 要開始馬拉松式的訓練馬拉松
 
 ![Ancient long distance runner](https://upload.wikimedia.org/wikipedia/commons/c/cc/Long_Distance_Runners%2C_Ancient_Greece%2C_Amphora.png)
